@@ -1,6 +1,3 @@
-Berikut adalah kode markdown dalam **Bahasa Inggris** untuk berkas `README.md` di repositori khusus `Doraxile` Anda agar profil GitHub Anda memiliki jangkauan global/internasional:
-
-```markdown
 # Hi there! I'm Doraxile 👋
 
 Welcome to my GitHub profile! I am a passionate junior developer exploring software engineering, with a strong focus on **Web Development** and **Computer Vision**. I am dedicated to writing clean, modular code and crafting highly interactive user experiences.
@@ -53,4 +50,3 @@ Welcome to my GitHub profile! I am a passionate junior developer exploring softw
 
 - ⚡ **Fun Fact**: I love the intersection of hardware automation and interactive web user interfaces!
 - 📫 How to reach me: Drop a message in the *Issues* tab of any of my repositories!
-```
