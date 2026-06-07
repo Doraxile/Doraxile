@@ -82,13 +82,6 @@ Outside work, I build computer vision and ML projects that solve real problems. 
 ## Currently
 
 - 🔧 Interning as a Data Engineer at **Devoteam** (Google Cloud Partner) — building pipelines, migrations, and data models for enterprise clients on GCP
-- 📚 Learning: **dbt** · **PySpark** · **JLPT Japanese** (targeting N2 for Japan IT market)
 - 🎯 Looking for: Junior Data Engineer / Analytics Engineer roles after graduation (2026)
 
 ---
-
-## Contact
-
-[![Email](https://img.shields.io/badge/atdbagas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:atdbagas@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/atdb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atdb)
-[![GitHub](https://img.shields.io/badge/github.com/Doraxile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doraxile)
